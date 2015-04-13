@@ -1,0 +1,24 @@
+﻿@model Nemesis.Site.Models.StoreListViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Store List";
+}
+
+<div>
+    <div class="panel-title">
+        <h1>Stores - Results</h1>
+    </div>
+    <div class="panel-default">
+        @foreach (var item in Model.Stores)
+        {
+            <div class="row">
+                <div class="col-lg-4"> @Html.Label(item.Name) </div>
+                <div class="col-lg-4"> @Html.Label(item.Postcode) </div>
+                <div class="col-lg-4"> @Html.ActionLink("view detail", "Detail", new { Id = item.Id }) </div>
+            </div>
+        }
+    </div>
+</div>

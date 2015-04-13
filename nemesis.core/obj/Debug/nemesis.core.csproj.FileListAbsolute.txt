@@ -1,0 +1,10 @@
+c:\git\Nemesis\nemesis.core\bin\Debug\nemesis.core.dll.config
+c:\git\Nemesis\nemesis.core\bin\Debug\nemesis.core.dll
+c:\git\Nemesis\nemesis.core\bin\Debug\nemesis.core.pdb
+c:\git\Nemesis\nemesis.core\bin\Debug\EntityFramework.dll
+c:\git\Nemesis\nemesis.core\bin\Debug\EntityFramework.SqlServer.dll
+c:\git\Nemesis\nemesis.core\bin\Debug\EntityFramework.xml
+c:\git\Nemesis\nemesis.core\bin\Debug\EntityFramework.SqlServer.xml
+c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.dll
+c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.pdb
+c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.csprojResolveAssemblyReference.cache
