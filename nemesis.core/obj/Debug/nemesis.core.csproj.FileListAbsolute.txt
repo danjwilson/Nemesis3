@@ -8,3 +8,13 @@ c:\git\Nemesis\nemesis.core\bin\Debug\EntityFramework.SqlServer.xml
 c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.dll
 c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.pdb
 c:\git\Nemesis\nemesis.core\obj\Debug\nemesis.core.csprojResolveAssemblyReference.cache
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\nemesis.core.dll.config
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\nemesis.core.dll
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\nemesis.core.pdb
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\EntityFramework.dll
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\EntityFramework.xml
+C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.csprojResolveAssemblyReference.cache
+C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.dll
+C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.pdb

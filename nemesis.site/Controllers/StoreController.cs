@@ -32,6 +32,12 @@ namespace Nemesis.Site.Controllers
         {
             return View(new StoreDetailViewModel(StoreSamples.SampleStores.First(s => s.Id.Equals(Id))));
         }
+
+        [HttpPost]
+        public ActionResult Detail(StoreDetailViewModel model)
+        {
+            return View(model);
+        }
     }
 }
 

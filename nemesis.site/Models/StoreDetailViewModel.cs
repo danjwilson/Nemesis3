@@ -18,6 +18,8 @@ namespace Nemesis.Site.Models
 
         public string Id { get; set; }
 
+        public StoreDetailViewModel() { }
+
         public StoreDetailViewModel(Store store)
         {
             Name = store.Name;
