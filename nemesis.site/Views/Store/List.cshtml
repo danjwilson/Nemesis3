@@ -9,15 +9,17 @@
 
 <div>
     <div class="panel-title">
-        <h1>Stores - Results</h1>
+        <h1>Stores - Results</h1>        
     </div>
+    <div class="text-left">Returned @Model.Stores.Count() results</div>
+    <br />
     <div class="panel-default">
         @foreach (var item in Model.Stores)
         {
             <div class="row">
-                <div class="col-lg-4"> @Html.Label(item.Name) </div>
-                <div class="col-lg-4"> @Html.Label(item.Postcode) </div>
-                <div class="col-lg-4"> @Html.ActionLink("view detail", "Detail", new { Id = item.Id }) </div>
+                <div class="col-lg-4"> @Html.DisplayFor(i => item.Name) </div>
+                <div class="col-lg-4"> @Html.DisplayFor(i => item.Postcode) </div>
+                <div class="col-lg-4"> @Html.ActionLink("view", "Detail", new { Id = item.Id }) </div>
             </div>
         }
     </div>

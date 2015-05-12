@@ -18,3 +18,15 @@ C:\git\danjwilson\Nemesis3\nemesis.core\bin\Debug\EntityFramework.SqlServer.xml
 C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.csprojResolveAssemblyReference.cache
 C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.dll
 C:\git\danjwilson\Nemesis3\nemesis.core\obj\Debug\nemesis.core.pdb
+C:\git\Nemesis3\nemesis.core\bin\Debug\nemesis.core.dll.config
+C:\git\Nemesis3\nemesis.core\bin\Debug\nemesis.core.dll
+C:\git\Nemesis3\nemesis.core\bin\Debug\nemesis.core.pdb
+C:\git\Nemesis3\nemesis.core\bin\Debug\EntityFramework.dll
+C:\git\Nemesis3\nemesis.core\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\Nemesis3\nemesis.core\bin\Debug\EntityFramework.xml
+C:\git\Nemesis3\nemesis.core\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\Nemesis3\nemesis.core\obj\Debug\nemesis.core.csprojResolveAssemblyReference.cache
+C:\git\Nemesis3\nemesis.core\obj\Debug\nemesis.core.dll
+C:\git\Nemesis3\nemesis.core\obj\Debug\nemesis.core.pdb
+C:\git\Nemesis3\nemesis.core\obj\Debug\Nemesis.Core.Migrations.InitialCreate.resources
+C:\git\Nemesis3\nemesis.core\obj\Debug\nemesis.core.csproj.GenerateResource.Cache
